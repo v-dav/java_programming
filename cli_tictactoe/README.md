@@ -56,10 +56,6 @@ Contributions to this project are welcome. Please adhere to the following guidel
 - Update or add new tests as necessary.
 - Submit a pull request with a comprehensive description of changes.
 
-## License
-
-This project is open-sourced under the MIT license. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - [Vladimir Davidov](https://github.com/v-dav)
