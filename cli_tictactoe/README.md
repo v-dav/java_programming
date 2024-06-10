@@ -39,7 +39,58 @@ The board coordinates start from 1 to 3, both horizontally and vertically:
 ```
 
 Players must enter coordinates in the `x y` format, where `x` is the row number and `y` is the column number.
-![Skärmavbild 2024-06-10 kl  19 03 48](https://github.com/v-dav/java_programming/assets/115344057/23390eea-1a6b-403d-8433-0f70f800c5f0)
+```java
+V tictactoe %java Main.java
+---------
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+2 2
+---------
+| _ _ _ |
+| _ X _ |
+| _ _ _ |
+---------
+2 1
+---------
+| _ _ _ |
+| O X _ |
+| _ _ _ |
+---------
+1 2
+---------
+| _ X _ |
+| O X _ |
+| _ _ _ |
+---------
+1 1
+---------
+| O X _ |
+| O X _ |
+| _ _ _ |
+---------
+3 1
+---------
+| O X _ |
+| O X _ |
+| X _ _ |
+---------
+3 2
+---------
+| O X _ |
+| O X _ |
+| X O _ |
+---------
+1 3
+---------
+| O X X |
+| O X _ |
+| X O _ |
+---------
+X wins
+
+```
 
 ## Game Features
 
