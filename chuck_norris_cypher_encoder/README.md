@@ -2,6 +2,11 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/cf6694f0-8bc9-4f3c-9b3d-9f0db487e07f" alt="image">
+</p>
+
+
 ## Project Description
 
 This project is a Java implementation of the Chuck Norris encoding and decoding technique. Chuck Norris encoding is a unary encoding where sequences of binary digits are converted into a series of `0`s and spaces. The project provides functionality to encode a string into Chuck Norris encoded format and decode a Chuck Norris encoded string back to its original form.
