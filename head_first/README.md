@@ -75,6 +75,10 @@ Game is over
 
 This project generates a random phrase by selecting words from three different lists and combining them. The result is a phrase that can be used as a business jargon or a buzzword.
 
+```
+What we need is a web-based clustered architecture
+```
+
 ## Usage
 
 1. **Compile the Programs**:
