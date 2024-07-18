@@ -2,6 +2,9 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+![image](https://github.com/user-attachments/assets/69ef679e-7be0-4455-ab47-ce7a34ebce06)
+
+
 ## Project Description
 
 The Zoo Habitat Viewer is a simple Java application that allows users to view different animal habitats by entering the corresponding habitat number. Each habitat displays a unique ASCII art representation of an animal and a brief description of what the animal is doing. The application continues to prompt for input until the user types "exit".
