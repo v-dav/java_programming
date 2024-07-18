@@ -9,8 +9,41 @@ This repository contains three different Java projects, each showcasing fundamen
 
 ### 1. Beer Song
 
+![image](https://github.com/user-attachments/assets/8c7f2927-1744-4d48-a51e-a47b5db62d25)
+
+
 This project prints the lyrics to the classic "99 Bottles of Beer" song. It starts from 99 bottles and counts down to 1, printing appropriate lines for each number of bottles.
 
+```
+99 bottles of beer on the wall
+99 bottles of beer
+Take one down.
+Pass it around.
+
+98 bottles of beer on the wall
+98 bottles of beer
+Take one down.
+Pass it around.
+
+97 bottles of beer on the wall
+97 bottles of beer
+Take one down.
+Pass it around.
+
+...
+
+2 bottles of beer on the wall
+2 bottles of beer
+Take one down.
+Pass it around.
+
+1 bottle of beer on the wall
+1 bottle of beer
+Take one down.
+Pass it around.
+
+No more bottles of beer on the wall
+```
 ### 2. Guess Game
 
 This project implements a simple number-guessing game. The game generates a random number between 0 and 9, and three players attempt to guess the number. The game continues until one of the players guesses the number correctly.
