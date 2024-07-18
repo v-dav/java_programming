@@ -1,4 +1,6 @@
 # Mortgage Calculator
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 ![image](https://github.com/user-attachments/assets/ff49aebd-eeb4-4b79-b310-82132aa2b1cd)
 
