@@ -1,5 +1,10 @@
 # Tic Tac Toe
+
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1833588d-2a2a-419b-9c01-b0cc712eba71" alt="image">
+</p>
 
 ## Project Overview
 
