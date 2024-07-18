@@ -1,5 +1,8 @@
 # Net Income Calculator
 
+![image](https://github.com/user-attachments/assets/9d522bba-6a64-4693-a85a-d7b3baa395de)
+
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## Overview
