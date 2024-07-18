@@ -2,6 +2,9 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+![image](https://github.com/user-attachments/assets/dee7fcc5-52f7-4039-ae23-033c419b35ed)
+
+
 ## Project Overview
 
 The Last Pencil Game is a simple interactive game where two players (**one of them is Jack witch is always the bot**) take turns removing 1 to 3 pencils from a pile. The player forced to take the last pencil loses the game. This project is implemented in Java and showcases basic concepts such as user input handling, control flow, and basic AI pattern for the bot's moves.
