@@ -1,5 +1,8 @@
 # Mortgage Calculator
 
+![image](https://github.com/user-attachments/assets/ff49aebd-eeb4-4b79-b310-82132aa2b1cd)
+
+
 ## Overview
 
 This project implements a simple mortgage calculator in Java. The program prompts the user to enter the principal amount, annual interest rate, and period in years. It then calculates the monthly mortgage payment and displays it in a formatted currency representation.
