@@ -2,6 +2,12 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/813af74b-9a40-435a-ac1c-a4860e3bf2ca" alt="image">
+</p>
+
+
 ## Project Overview
 
 The Cinema Booking System is a Java-based application that simulates a simple cinema ticket booking system. Users can view the seating arrangement, buy tickets, and view statistics such as the number of purchased tickets, the percentage of occupancy, current income, and potential total income.
