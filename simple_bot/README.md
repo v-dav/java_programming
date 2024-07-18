@@ -2,6 +2,9 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+![image](https://github.com/user-attachments/assets/25cd9212-260d-4897-9fdb-ba34a986f057)
+
+
 ## Project Description
 
 SimpleBot is a basic interactive console application written in Java. It acts as a friendly bot that interacts with the user, guesses their age using mathematical operations, counts to a user-specified number, and quizzes the user on programming knowledge. This project serves as an introductory example of working with basic Java syntax, control structures, and user input.
