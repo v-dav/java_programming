@@ -48,7 +48,30 @@ No more bottles of beer on the wall
 
 This project implements a simple number-guessing game. The game generates a random number between 0 and 9, and three players attempt to guess the number. The game continues until one of the players guesses the number correctly.
 
+```
+I'm thinking of a number between 0 and 9...
+
+The number to guess is 5
+
+I'm guessing 3
+I'm guessing 7
+I'm guessing 5
+
+Player one guessed 3
+Player two guessed 7
+Player three guessed 5
+
+We have a winner!
+Player one got it right? false
+Player two got it right? false
+Player three got it right? true
+Game is over
+```
+
 ### 3. PhraseOMatic
+
+![image](https://github.com/user-attachments/assets/dc02726d-a74e-4d4a-8bcb-52ae7d24f5b7)
+
 
 This project generates a random phrase by selecting words from three different lists and combining them. The result is a phrase that can be used as a business jargon or a buzzword.
 
