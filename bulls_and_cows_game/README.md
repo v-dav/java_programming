@@ -2,6 +2,9 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+![image](https://github.com/user-attachments/assets/5493bc31-9bf4-4ed1-a5b4-fa5e540838f4)
+
+
 ## Project Description
 
 This project implements the Bulls and Cows game, a code-breaking game for two players. The goal is to guess a secret code within a certain number of tries. The game provides feedback in the form of "bulls" and "cows" for each guess. A "bull" indicates a correct digit in the correct position, while a "cow" indicates a correct digit in the wrong position.
