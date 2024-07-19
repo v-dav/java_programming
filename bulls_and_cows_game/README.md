@@ -64,16 +64,16 @@ The secret is prepared: **** (0-9, a-f).
 Okay, let's start a game!
 Turn 1:
 1234
-Grade: 1 bull and 1 cow
+Grade: 0 bull and 2 cows
 Turn 2:
 5678
-Grade: None
+Grade: 0 bull and 2 cows
 Turn 3:
 1235
-Grade: 1 bull and 2 cows
+Grade: 0 bull and 2 cows
 Turn 4:
 2345
-Grade: 2 bulls and 1 cow
+Grade: 0 bulls and 3 cows
 Turn 5:
 3456
 Grade: 4 bulls
