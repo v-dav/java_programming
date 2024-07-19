@@ -57,27 +57,71 @@ This project implements the Bulls and Cows game, a code-breaking game for two pl
 
 ```plaintext
 Input the length of the secret code:
-4
+5
 Input the number of possible symbols in the code:
-6
-The secret is prepared: **** (0-9, a-f).
+10
+The secret is prepared: ***** (0-9).
 Okay, let's start a game!
 Turn 1:
-1234
-Grade: 0 bull and 2 cows
+ab123
+Grade: 1 bull and 1 cow
 Turn 2:
-5678
-Grade: 0 bull and 2 cows
+bb123
+Grade: 1 bull and 1 cow
 Turn 3:
-1235
-Grade: 0 bull and 2 cows
+aa123
+Grade: 1 bull and 1 cow
 Turn 4:
-2345
-Grade: 0 bulls and 3 cows
+ab234
+Grade: 1 cow
 Turn 5:
-3456
+ab124
+Grade: 1 bull and 1 cow
+Turn 6:
+ab334
+Grade: None.
+Turn 7:
+ab125   
+Grade: 1 bull and 1 cow
+Turn 8:
+ab129
+Grade: 1 bull and 2 cows
+///......
+Turn 48:
+90928
 Grade: 4 bulls
+Turn 49:
+9092a
+Grade: 3 bulls
+Turn 50:
+90928
+Grade: 4 bulls
+Turn 51:
+909a8
+Grade: 3 bulls
+Turn 52:
+90928
+Grade: 4 bulls
+Turn 53:
+90a28
+Grade: 3 bulls and 1 cow
+Turn 54:
+90928
+Grade: 4 bulls
+Turn 55:
+9a928
+Grade: 3 bulls
+Turn 56:
+90928
+Grade: 4 bulls
+Turn 57:
+a0928
+Grade: 4 bulls
+Turn 58:
+10928
+Grade: 5 bulls
 Congratulations! You guessed the secret code.
+V bulls_and_cows_game %
 ```
 
 ## Author
