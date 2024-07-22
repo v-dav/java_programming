@@ -25,7 +25,7 @@ Ensure you have Java installed on your system. Compile the Java files using `jav
 
 ```bash
 javac Main.java
-java Main.java
+java Main
 ```
 
 ### Gameplay
