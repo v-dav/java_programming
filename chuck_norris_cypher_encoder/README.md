@@ -42,7 +42,7 @@ The decoding process involves converting a Chuck Norris encoded string back into
 
 2. **Run the Program:**
    ```bash
-   java chucknorris.Main
+   java Main
    ```
 
 3. **Follow the On-Screen Prompts:**
