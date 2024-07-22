@@ -31,12 +31,12 @@ This project implements the Bulls and Cows game, a code-breaking game for two pl
 
 2. **Compile the Java code:**
    ```bash
-   javac bullscows/Main.java
+   javac Main.java
    ```
 
 3. **Run the game:**
    ```bash
-   java bullscows.Main
+   java Main
    ```
 
 ## How to Play
