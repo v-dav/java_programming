@@ -50,7 +50,7 @@ Users can perform the following actions:
 
 2. **Run the Program:**
    ```bash
-   java machine.CoffeeMachine
+   java CoffeeMachine
    ```
 
 3. **Follow the On-Screen Prompts:**
