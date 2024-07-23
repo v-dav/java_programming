@@ -1,10 +1,13 @@
-## Battleship Game
+# Battleship Game
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+![image](https://github.com/user-attachments/assets/a32b6012-f1cd-44d7-94c9-a12bc99b905d)
+
+<br>
 Welcome to the Battleship game! This project implements the classic Battleship game on local CLI using Java. The game allows two players to place their fleets on their respective boards and take turns trying to sink each other's ships.
 
-### Features
+## Features
 
 1. **Different Ship Types**: 
     - Aircraft Carrier
@@ -27,7 +30,7 @@ Welcome to the Battleship game! This project implements the classic Battleship g
     - Scanner for reading user input.
     - Input validation to ensure correct coordinates and ship placements.
 
-### Classes and Concepts
+## Classes and Concepts
 
 1. **Main.java**:
     - Entry point of the game.
@@ -49,7 +52,7 @@ Welcome to the Battleship game! This project implements the classic Battleship g
     - Each class inherits from `Ship`.
     - Defines specific properties like size and name.
 
-### Getting Started
+## Getting Started
 
 1. **Compile the Code**:
     ```bash
@@ -61,7 +64,7 @@ Welcome to the Battleship game! This project implements the classic Battleship g
     java battleship.Main
     ```
 
-### Detailed Class Description
+## Detailed Class Description
 
 #### Main.java
 - **Description**: The main class orchestrates the game flow. It initializes the game, handles player turns, and determines the game state.
@@ -108,7 +111,12 @@ Welcome to the Battleship game! This project implements the classic Battleship g
 3. **Taking Shots**: Input coordinates to guess the location of the opponent's ships.
 4. **Winning the Game**: The game continues until all ships of one player are sunk.
 
-### Example
+## Screenshot
+
+![Skärmavbild 2024-07-23 kl  14 40 56](https://github.com/user-attachments/assets/2dafc1da-8019-483b-bc2f-415740e08aff)
+
+
+## Example
 
 ```
 mac:src Vlad$ javac battleship/*.java
