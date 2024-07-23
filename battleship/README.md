@@ -52,17 +52,28 @@ Welcome to the Battleship game! This project implements the classic Battleship g
     - Each class inherits from `Ship`.
     - Defines specific properties like size and name.
 
-## Getting Started
+## How to Clone and Run the Game Locally
 
-1. **Compile the Code**:
-    ```bash
-    javac *.java
-    ```
+To clone and run this project locally, follow these steps:
 
-2. **Run the Game**:
-    ```bash
-    java battleship.Main
-    ```
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/v-dav/java_programming.git
+   cd java_programming/
+   ```
+
+2. **Compile the Project**:
+   ```bash
+   javac battleship/*.java
+   ```
+
+3. **Run the Project**:
+   ```bash
+   java battleship.Main
+   ```
+
+
+Now, you can enjoy playing the Battleship game!
 
 ## Detailed Class Description
 
@@ -250,4 +261,3 @@ Press Enter and pass the move to another player
 ## Author
 
 - Vladimir Davidov
-
