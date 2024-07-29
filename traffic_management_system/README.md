@@ -77,6 +77,7 @@ The `Road` class represents a road with attributes like name, state (open/closed
 
 Upon running the application, you will be presented with a menu to interact with the system. You can add roads, remove roads, and view the current system state. The system state updates in real-time, displaying the status of each road and the time elapsed since the system startup.
 
+![stage6JV](https://github.com/user-attachments/assets/67b86f09-eb39-4047-af93-3757f0ab098f)
 
 
 This will display the current state of the system, including the number of roads and their respective states (open/closed).
