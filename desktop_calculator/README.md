@@ -1,10 +1,18 @@
 # 🧮 Java Desktop Calculator
-
 A calculator application built with Java Swing.
 
+
+<div align="center">
+  <img width="334" alt="Skärmavbild 2025-06-09 kl  18 05 12" src="https://github.com/user-attachments/assets/18d5e1ae-5c15-442d-b87b-2c85b445d51b" />
+</div>
+
+<div align="center">
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
+</div>
 
 ## ✨ Features
 
