@@ -1,9 +1,8 @@
 # Connect Four Game 🔴🟡
 
 A classic Connect Four game implemented in Java Swing.
-
+  
 <img width="421" height="435" alt="Skärmavbild 2025-07-12 kl  23 44 16" src="https://github.com/user-attachments/assets/029afd99-6321-46dc-82a0-01b6ba523c7e" />
-
 
 ## 🎮 Game Description
 
