@@ -10,7 +10,6 @@ A calculator application built with Java Swing.
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 </div>
 
