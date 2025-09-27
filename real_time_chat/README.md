@@ -1,6 +1,8 @@
 # Real-Time Chat Application
 
 A modern, real-time chat application built with Spring Boot and WebSocket technology, featuring both public chat rooms and private messaging capabilities.
+<img width="960" height="1149" alt="Skärmavbild 2025-09-27 kl  12 05 28" src="https://github.com/user-attachments/assets/03f9bbb8-9440-472b-93ed-d802b81cecb6" />
+<img width="960" height="1042" alt="Skärmavbild 2025-09-27 kl  12 05 56" src="https://github.com/user-attachments/assets/8113367d-6c65-4d67-819b-37520ac1a2a8" />
 
 ## Features
 
