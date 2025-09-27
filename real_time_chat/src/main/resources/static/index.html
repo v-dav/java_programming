@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="chat-container">
+    <!-- Username input section (visible initially) -->
+    <div id="username-section" class="username-section">
+        <h2>Join Chat</h2>
+        <div class="username-input-container">
+            <input type="text" id="input-username" placeholder="Enter your username..." maxlength="20">
+            <button id="send-username-btn">Join</button>
+        </div>
+        <div id="username-error" class="error-message"></div>
+    </div>
+
+    <!-- Chat section (hidden initially) -->
+    <div id="chat-section" class="chat-section" style="display: none;">
+        <div class="chat-header">
+            <span id="current-user">Welcome, <strong id="username-display"></strong></span>
+            <!-- NEW: Chat indicator and public chat button -->
+            <div class="chat-controls">
+                <span id="chat-with" class="chat-indicator">Public chat</span>
+                <button id="public-chat-btn" class="public-chat-btn">Public Chat</button>
+            </div>
+        </div>
+
+        <div class="chat-main">
+            <div id="messages" class="messages-container">
+                <!-- Messages will be added here dynamically -->
+            </div>
+
+            <!-- Online users section -->
+            <div class="users-sidebar">
+                <div class="users-header">
+                    <h3>Online Users</h3>
+                    <span id="user-count">0</span>
+                </div>
+                <div id="users" class="users-list">
+                    <!-- Users will be added here dynamically -->
+                </div>
+            </div>
+        </div>
+
+        <div class="input-container">
+            <textarea id="input-msg" placeholder="Type your message here..." rows="3"></textarea>
+            <button id="send-msg-btn">Send</button>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.5.0/sockjs.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script>
+<script src="scripts.js"></script>
+</body>
+</html>
