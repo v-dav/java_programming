@@ -1,7 +1,7 @@
 
 # Fitness Tracker API
 
-<img width="899" height="480" alt="Gemini_Generated_Image_yeyb0qyeyb0qyeyb" src="https://github.com/user-attachments/assets/19bdae49-28a2-465e-8e79-b4756bc309e6" />
+<img width="1432" height="763" alt="Skärmavbild 2025-10-12 kl  17 07 31" src="https://github.com/user-attachments/assets/ea2c6552-c1ce-418b-9cc4-efdf8b786eb4" />
 
 
 A comprehensive REST API for fitness data management with developer authentication, application registration, and secure data endpoints. Built with Spring Boot 3, Spring Security, and Spring Data JPA.
