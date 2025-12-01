@@ -1,5 +1,3 @@
-package memorizingtool;//Chapter 5
-
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
