@@ -64,7 +64,7 @@ cd memorizingtool
 javac *.java
 
 # Run the application
-java memorizingtool.Memory
+java Memory
 ```
 
 ## Usage
