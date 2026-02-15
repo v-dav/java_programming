@@ -63,8 +63,6 @@ Each pair is `<Child>=<Parent>` in the MST, sorted alphabetically by child. The 
 ## Project Structure
 
 ```
-src/
-└── visualizer/
     ├── ApplicationRunner.java   # Entry point — launches MainFrame
     ├── MainFrame.java           # Main JFrame: UI layout, graph state, event wiring
     ├── GraphAlgorithm.java      # Abstract base class for all algorithms
@@ -101,33 +99,20 @@ cd graph-algorithms-visualizer
 From the project root, compile all source files into an `out/` directory:
 
 ```bash
-javac -d out src/visualizer/*.java
+javac -d out *.java
 ```
 
 ### 3. Run
 
 ```bash
-java -cp out visualizer.ApplicationRunner
+java -cp out ApplicationRunner
 ```
 
 ### One-liner (compile + run)
 
 ```bash
-javac -d out src/visualizer/*.java && java -cp out visualizer.ApplicationRunner
+javac -d out *.java && java -cp out ApplicationRunner
 ```
-
----
-
-### Running with an IDE
-
-**IntelliJ IDEA**
-1. Open the project root as a new project.
-2. Mark `src/` as the *Sources Root* (right-click → *Mark Directory as → Sources Root*).
-3. Run `ApplicationRunner` directly (`Shift+F10` or the green ▶ button).
-
-**Eclipse**
-1. *File → New → Java Project*, uncheck *Use default location*, point to the project root.
-2. Right-click `ApplicationRunner.java` → *Run As → Java Application*.
 
 ---
 
