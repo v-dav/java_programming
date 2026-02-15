@@ -1,5 +1,3 @@
-package visualizer;
-
 import java.util.*;
 
 public class BFSAlgorithm extends GraphAlgorithm {
